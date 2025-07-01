@@ -4,7 +4,12 @@ This repository supports the Master's thesis of **Reza Ahmari** at **North Carol
 
 > **A Data-Driven Approach to Evaluate UAV/UGV integration in UAV deployment scenarios**
 
-<pre> <code>@article{Ahmari_2025_Trojan, author = {Reza Ahmari and Vahid Hemmati and Ahmad Mohammadi and Mynuddin Mohammed and Parham Kebria and Mahmoud Nabil Mahmoud and Abdollah Homaifar}, title = {Evaluating Trojan Attack Vulnerabilities in Autonomous Landing Systems for Urban Air Mobility}, journal = {Proceedings of the Automation, Robotics and Communications for Industry}, volume = {4}, number = {5.0}, pages = {80}, year = {2025} } @article{Ahmari_2025_DataDriven, author = {Reza Ahmari and Vahid Hemmati and Ahmad Mohammadi and Parham Kebria and Mahmoud Nabil Mahmoud and Abdollah Homaifar}, title = {A Data-Driven Approach for UAV-UGV Integration}, journal = {Proceedings of the Automation, Robotics and Communications for Industry}, volume = {4}, number = {5.0}, pages = {77}, year = {2025} } @inproceedings{Ahmari_2025_SMC, author = {Reza Ahmari and Ahmad Mohammadi and Vahid Hemmati and Mynuddin Mohammed and Mahmoud Nabil Mahmoud and Parham Kebria and Abdollah Homaifar}, title = {An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing}, booktitle = {2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, year = {2025}, note = {(submitted)}, organization = {IEEE} } </code> </pre>
+<pre> <code>
+  @article{Ahmari_2025_Trojan, author = {Reza Ahmari and Vahid Hemmati and Ahmad Mohammadi and Mynuddin Mohammed and Parham Kebria and Mahmoud Nabil Mahmoud and Abdollah Homaifar}, title = {Evaluating Trojan Attack Vulnerabilities in Autonomous Landing Systems for Urban Air Mobility}, journal = {Proceedings of the Automation, Robotics and Communications for Industry}, volume = {4}, number = {5.0}, pages = {80}, year = {2025} } 
+  
+  @article{Ahmari_2025_DataDriven, author = {Reza Ahmari and Vahid Hemmati and Ahmad Mohammadi and Parham Kebria and Mahmoud Nabil Mahmoud and Abdollah Homaifar}, title = {A Data-Driven Approach for UAV-UGV Integration}, journal = {Proceedings of the Automation, Robotics and Communications for Industry}, volume = {4}, number = {5.0}, pages = {77}, year = {2025} } 
+  
+  @inproceedings{Ahmari_2025_SMC, author = {Reza Ahmari and Ahmad Mohammadi and Vahid Hemmati and Mynuddin Mohammed and Mahmoud Nabil Mahmoud and Parham Kebria and Abdollah Homaifar}, title = {An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing}, booktitle = {2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, year = {2025}, note = {(submitted)}, organization = {IEEE} } </code> </pre>
 
 ## 🧠 Overview
 
