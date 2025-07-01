@@ -13,7 +13,7 @@ Urban Air Mobility (UAM) systems are increasingly reliant on deep learning for a
 - 🤝 **UAV-UGV Integration**: Real-time vision-based framework for UAV-UGV integration.
 - 🔍 **Heading Angle Prediction**: A lightweight ANN for UGV-relative orientation estimation.
   
-## 🎯 Thesis Contributions
+# 🎯 Thesis Contributions
 
 To address the key research objectives, this work introduces the following contributions:
 
