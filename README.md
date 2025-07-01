@@ -28,7 +28,7 @@ This repository supports the Master's thesis of **Reza Ahmari** at **North Carol
 @inproceedings{ahmari2025smc,
   title={An Experimental Study of Trojan Vulnerabilities in UAV Autonomous Landing},
   author={Ahmari, Reza and Mohammadi, Ahmad and Hemmati, Vahid and Mohammed, Mynuddin and Mahmoud, Mahmoud Nabil and Kebria, Parham and Homaifar, Abdollah},
-  booktitle={2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (submitted)},
+  booktitle={2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (accepted)},
   pages={},
   year={2025},
   organization={IEEE}
