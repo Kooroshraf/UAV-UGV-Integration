@@ -8,12 +8,12 @@ This repository supports the Master's thesis of **Reza Ahmari** at **North Carol
 
 Urban Air Mobility (UAM) systems are increasingly reliant on deep learning for autonomous operations, making them susceptible to adversarial threats. This research investigates the impact of **Trojan attacks** on autonomous landing systems and proposes a **data-driven framework for UAV-UGV integration** to improve landing coordination and robustness.
 
-### Main Contributions:
+## Main Contributions:
 - 🚨 **Trojan Vulnerability Evaluation**: Trigger-based neural attacks on landing perception models.
 - 🤝 **UAV-UGV Integration**: Real-time vision-based framework for UAV-UGV integration.
 - 🔍 **Heading Angle Prediction**: A lightweight ANN for UGV-relative orientation estimation.
   
-# 🎯 Thesis Contributions
+### 🎯 Thesis Contributions
 
 To address the key research objectives, this work introduces the following contributions:
 
