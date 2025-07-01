@@ -3,6 +3,7 @@
 This repository supports the Master's thesis of **Reza Ahmari** at **North Carolina A&T State University**, titled:
 
 > **A Data-Driven Approach to Evaluate UAV/UGV integration in UAV deployment scenarios**
+<details> <summary>Click to expand BibTeX citation</summary>
 
 @article{Ahmari_2025_Trojan,
   author = {Reza Ahmari and Vahid Hemmati and Ahmad Mohammadi and Mynuddin Mohammed and Parham Kebria and Mahmoud Nabil Mahmoud and Abdollah Homaifar},
@@ -32,7 +33,7 @@ This repository supports the Master's thesis of **Reza Ahmari** at **North Carol
   note = {(submitted)},
   organization = {IEEE}
 }
-
+</details>
 
 ## 🧠 Overview
 
