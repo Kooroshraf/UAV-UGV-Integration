@@ -5,6 +5,14 @@ This repository supports the Master's thesis of **Reza Ahmari** at **North Carol
 > **A Data-Driven Approach to Evaluate UAV/UGV integration in UAV deployment scenarios**
 
 <pre> <code>
+
+@article{ahmari2025visual,
+  title={Visual Heading Prediction for Autonomous Aerial Vehicles},
+  author={Ahmari, Reza and Mohammadi, Ahmad and Hemmati, Vahid and Mynuddin, Mohammed and Kebria, Parham and Mahmoud, Mahmoud Nabil and Yuan, Xiaohong and Homaifar, Abdollah},
+  journal={arXiv preprint arXiv:2512.09898},
+  year={2025}
+}
+  
 @article{ahmari2025evaluating,
   title={Evaluating trojan attack vulnerabilities in autonomous landing systems for urban air mobility},
   author={Ahmari, Reza and Hemmati, V and Mohammadi, A and Mynuddin, M and Kebria, P and Mahmoud, M and Homaifar, A},
